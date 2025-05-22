@@ -1,0 +1,13 @@
+{
+  "name": "agent-governance-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "scripts": {
+    "start": "echo 'Start dev server (placeholder)'",
+    "build": "echo 'Build frontend (placeholder)'"
+  }
+}
